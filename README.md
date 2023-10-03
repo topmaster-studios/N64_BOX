@@ -4,9 +4,9 @@ an open-source N64-inspired box, using emulation station on a Raspberry PI it co
 (we are not responsible if you choose to pirate roms to use on this device)
 
 To create this you will need 
->A Raspberry Pi 3 or 4
->A decent computer with a micro SD card reader (you can buy an adapter online)
->A 3D printer (only if you want the custom shell)
+A Raspberry Pi 3 or 4
+A decent computer with a micro SD card reader (you can buy an adapter online)
+A 3D printer (only if you want the custom shell)
 
 Sources for project files
->
+
