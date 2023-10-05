@@ -1,5 +1,5 @@
-# N64_BOX
-an open-source N64-inspired box, using emulation station on a Raspberry PI it contains all the files needed to build it yourself.
+# Raspberry Portable
+The Raspberry Portable is a cheap portable DIY project seeking to mimic a Gameboy color using a Raspberry PI and this repository contains all the files needed to build it yourself.
 
 (we are not responsible if you choose to pirate roms to use on this device)
 
