@@ -1,5 +1,5 @@
-# Raspberry Portable
-The Raspberry Portable is a cheap portable DIY project seeking to mimic a Gameboy color using a Raspberry PI and this repository contains all the files needed to build it yourself.
+# Raspberry Hybrid
+The Raspberry Hybrid is a cheap portable DIY project seeking to make an affordable alternative to traditional handhelds using a Raspberry PI and this repository contains all the files needed to build it yourself.
 
 (we are not responsible if you choose to pirate roms to use on this device)
 
@@ -12,4 +12,5 @@ A decent computer with a micro SD card reader (you can buy an adapter online)
 A 3D printer (only if you want the custom shell)
 
 Sources for project files
+
 
